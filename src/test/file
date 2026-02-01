@@ -1,0 +1,20 @@
+{userName: "Kostyukova_3816", password: "Qtkwz!Z972LVZXJ"}
+
+{
+    "userId": "602ee7c4-f266-4909-9ad3-97715dce95fe",
+    "username": "Kostyukova_3816",
+    "password": "Qtkwz!Z972LVZXJ",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyTmFtZSI6Iktvc3R5dWtvdmFfMzgxNiIsInBhc3N3b3JkIjoiUXRrd3ohWjk3MkxWWlhKIiwiaWF0IjoxNzY4MDY0Nzk0fQ.0AF0AKiAucSJGFsQlFp4GogFMErOl7pOlnXFCN6Zw_w",
+    "expires": "2026-01-17T17:06:34.000Z",
+    "created_date": "2026-01-10T14:42:04.000Z",
+    "isActive": false
+}
+
+Для локального запуска
+    private String userName = "Kostyukova_3816";
+    private String password = "Qtkwz!Z972LVZXJ";
+
+//    private String userName = System.getProperty("username");
+//    private String password = System.getProperty("password");
+
+//    ./gradlew clean build test -Dusername='Kostyukova_3816' -Dpassword='Qtkwz!Z972LVZXJ'
