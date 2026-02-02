@@ -48,6 +48,13 @@
 
 
 ## Allure Report
+<p align="center">  
+<img title="Allure TestOps Dashboard" src="files/images/Allure Report_1.jpg" width="791">
+<img title="Allure TestOps Dashboard" src="files/images/Allure Report_2.jpg" width="791">  
+</p>  
 
 ## Уведомления о результатах тестов в Telegram
 
+<p align="center">
+<img src="files/images/Allert-bot_api.png" alt="TestOps launch" width="400" height="400">
+</p>
